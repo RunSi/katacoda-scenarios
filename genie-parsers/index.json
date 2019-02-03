@@ -19,6 +19,13 @@
     "intro": {
       "text": "intro.md"
     },
+    "assets": {
+      "host01": [{
+	 "file": "*",
+	 "target": "/root/genie/"
+      }
+     ]
+    },
     "finish": {
       "text": "finish.md"
     }
@@ -26,6 +33,9 @@
   "environment": {
     "uilayout": "editor-terminal"
   },
+  "files": [
+	  "genie-ops-parser.py"
+  ],
   "backend": {
     "imageid": "ubuntu"
   }
