@@ -24,7 +24,7 @@
     }
   },
   "environment": {
-    "uilayout": "ededitor-terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "coreos"
