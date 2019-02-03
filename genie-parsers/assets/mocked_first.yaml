@@ -13,7 +13,7 @@ devices:
       os: iosxe
       connections:
         ssh:
-            command: mock_device_cli --os iosxe --mock_data_dir first_yaml --state connect
+            command: mock_device_cli --os iosxe --mock_data_dir firstyaml --state connect
             protocol: unknown     
       custom:
         abstraction:

@@ -26,19 +26,19 @@
         },
 	{
          "file": "/first/*",
-	 "target": "/root/first/"
+	 "target": "/root/mock1/"
 	},
 	{
          "file": "/first_yaml/iosxe1/*",
-	 "target": "/root/first_yaml/iosxe1/"
+	 "target": "/root/firstyaml/iosxe1/"
 	},
 	{
          "file": "/second_yaml/iosxe1/*",
-	 "target": "/root/second_yaml/iosxe1/"
+	 "target": "/root/secondyaml/iosxe1/"
 	},
 	{
          "file": "/second/*",
-	 "target": "/root/second/"
+	 "target": "/root/mock2/"
 	}
       ]
     },
