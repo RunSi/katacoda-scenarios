@@ -22,6 +22,8 @@
     "assets": {
       "host01": [{
 	 "file": "mocked_first.yaml",
+	 "target": "/root",
+	 "file": "/first/iosxe",
 	 "target": "/root"
       }
      ]
