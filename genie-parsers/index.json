@@ -21,8 +21,8 @@
     },
     "assets": {
       "host01": [{
-	 "file": "*",
-	 "target": "/root/genie/"
+	 "file": "mocked_first.yaml",
+	 "target": "/root"
       }
      ]
     },
