@@ -1,18 +1,18 @@
 {
-  "title": "Genie Ops Models and Parsers",
-  "description": "A rework of DEVWKS-2601 demonstrating Ops Models and Parsers",
+  "title": "Introduction to Genie",
+  "description": "Learn the Basics of Parsing Operational or Configuration data with Genie",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Installing Genie",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2 - Introduction to Ops Objects",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Step 3 - Introduction to Conf Objects",
         "text": "step3.md"
       }
     ],
@@ -20,10 +20,11 @@
       "text": "intro.md"
     },
     "assets": {
-      "host01": [
-	  {"file": "mocked_first.yaml", "target": "~/"},
-	  {"file": "/first/iosxe", "target": "~/"}
-     ]
+      "host01": [{
+          "file": "*",
+          "target": "/root/pyats/"
+        }
+      ]
     },
     "finish": {
       "text": "finish.md"
@@ -33,8 +34,8 @@
     "uilayout": "editor-terminal"
   },
   "files": [
-	  "genie-ops-parser.py"
-  ],
+        "genie-intro.py"
+    ],
   "backend": {
     "imageid": "ubuntu"
   }
