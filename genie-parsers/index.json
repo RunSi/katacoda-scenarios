@@ -42,7 +42,7 @@
 	},
 	{
 	"file": "setup.sh",
-	 "target": "/root/", "chmod": "+x"
+	 "target": "/root/"
 	}
       ]
     },
