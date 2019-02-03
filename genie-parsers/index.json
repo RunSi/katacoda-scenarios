@@ -39,11 +39,11 @@
 	{
          "file": "/second/*",
 	 "target": "/root/second/"
-	},
-	{
-          "file": "*.sh",
-          "target": "/root/"
-        }
+	}
+#	{
+#          "file": "*.sh",
+#          "target": "/root/"
+#        }
       ]
     },
     "finish": {
