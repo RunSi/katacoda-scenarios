@@ -40,10 +40,6 @@
          "file": "/second/*",
 	 "target": "/root/second/"
 	}
-#	{
-#          "file": "*.sh",
-#          "target": "/root/"
-#        }
       ]
     },
     "finish": {
