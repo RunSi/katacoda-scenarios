@@ -41,9 +41,9 @@
 	 "target": "/root/second/"
 	},
 	{
-	"file": "setup.sh",
-	 "target": "/root/"
-	}
+          "file": "*.sh",
+          "target": "/root/"
+        }
       ]
     },
     "finish": {
