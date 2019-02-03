@@ -21,7 +21,7 @@
     },
     "assets": {
       "host01": [{
-          "file": "mocked_first.yaml",
+          "file": "*.yaml",
           "target": "/root/pyats/"
         }
       ]
