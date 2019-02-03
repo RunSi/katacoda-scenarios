@@ -27,7 +27,7 @@
 	{
          "file": "/first/*",
 	 "target": "/root/first/"
-	}
+	},
 	{
          "file": "/first_yaml/iosxe1/*",
 	 "target": "/root/first_yaml/iosxe1/"
