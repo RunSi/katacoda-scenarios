@@ -25,12 +25,16 @@
           "target": "/root/"
         },
 	{
-         "file": "/first_yaml/*",
-	 "target": "/root/first_yaml/"
+         "file": "/first/*",
+	 "target": "/root/first/"
+	}
+	{
+         "file": "/first_yaml/iosxe1/*",
+	 "target": "/root/first_yaml/iosxe1/"
 	},
 	{
-         "file": "/second_yaml/*",
-	 "target": "/root/second_yaml/"
+         "file": "/second_yaml/iosxe1/*",
+	 "target": "/root/second_yaml/iosxe1/"
 	},
 	{
          "file": "/second/*",
