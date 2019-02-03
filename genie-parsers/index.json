@@ -25,10 +25,6 @@
           "target": "/root/"
         },
 	{
-         "file": "/first/*",
-	 "target": "/root/first/"
-	},
-	{
          "file": "/first_yaml/*",
 	 "target": "/root/first_yaml/"
 	},
