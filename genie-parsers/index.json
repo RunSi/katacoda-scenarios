@@ -20,12 +20,9 @@
       "text": "intro.md"
     },
     "assets": {
-      "host01": [{
-	 "file": "mocked_first.yaml",
-	 "target": "/root"},
-	 {"file": "/first/iosxe",
-	 "target": "/root/first/"}
-      }
+      "host01": [
+	  {"file": "mocked_first.yaml", "target": "/root"},
+	  {"file": "/first/iosxe", "target": "/root/first/"}
      ]
     },
     "finish": {
