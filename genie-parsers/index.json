@@ -20,7 +20,7 @@
       "text": "intro.md"
     },
     "assets": {
-      "host01": [{
+      "client": [{
 	 "file": "*",
 	 "target": "/root/genie/"
       }
